@@ -1,0 +1,5 @@
+object Main extends App{
+  val consolationCard = new Card("CONSOLATION", 5, 1, false, false,
+    true, 0, 0.5, false)
+
+}
